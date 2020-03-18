@@ -1,8 +1,0 @@
-twitterFeed:
-  consumerKey: foo
-  consumerSecret: bar
-  accessToken: peanuts
-  accessTokenSecret: spaghetti
-
-medium:
-  bearer: foo
